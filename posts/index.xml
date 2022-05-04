@@ -11,12 +11,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 28 Apr 2022 09:47:22 -0400</lastBuildDate><atom:link href="https://blog.doneber.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Como empezar tu blog con hugo</title>
-      <link>https://blog.doneber.dev/posts/tu_blog_con_go-hugo/</link>
+      <title>Como crear tu blog con hugo y GitHub Pages</title>
+      <link>https://blog.doneber.dev/posts/tu-blog-con-hugo-y-github-pages/</link>
       <pubDate>Thu, 28 Apr 2022 09:47:22 -0400</pubDate>
       
-      <guid>https://blog.doneber.dev/posts/tu_blog_con_go-hugo/</guid>
-      <description>Crea tu blog en pocos minutos con esta asombrosa herramienta</description>
+      <guid>https://blog.doneber.dev/posts/tu-blog-con-hugo-y-github-pages/</guid>
+      <description>Crea tu blog en pocos minutos con estas herramientas</description>
     </item>
     
   </channel>
