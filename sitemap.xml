@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.doneber.dev/posts/tu-blog-con-hugo-y-github-pages/</loc>
+    <loc>https://doneber.dev/blog/posts/tu-blog-con-hugo-y-github-pages/</loc>
     <lastmod>2022-04-28T09:47:22-04:00</lastmod>
   </url><url>
-    <loc>https://blog.doneber.dev/</loc>
+    <loc>https://doneber.dev/blog/</loc>
     <lastmod>2022-04-28T09:47:22-04:00</lastmod>
   </url><url>
-    <loc>https://blog.doneber.dev/posts/</loc>
+    <loc>https://doneber.dev/blog/posts/</loc>
     <lastmod>2022-04-28T09:47:22-04:00</lastmod>
   </url><url>
-    <loc>https://blog.doneber.dev/categories/</loc>
+    <loc>https://doneber.dev/blog/categories/</loc>
   </url><url>
-    <loc>https://blog.doneber.dev/tags/</loc>
+    <loc>https://doneber.dev/blog/tags/</loc>
   </url>
 </urlset>

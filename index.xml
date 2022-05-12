@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>doneber.dev</title>
-    <link>https://blog.doneber.dev/</link>
+    <link>https://doneber.dev/blog/</link>
     <description>Recent content on doneber.dev</description>
     <image>
-      <url>https://blog.doneber.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.doneber.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://doneber.dev/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://doneber.dev/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 Apr 2022 09:47:22 -0400</lastBuildDate><atom:link href="https://blog.doneber.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 09:47:22 -0400</lastBuildDate><atom:link href="https://doneber.dev/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Como crear tu blog con hugo y GitHub Pages</title>
-      <link>https://blog.doneber.dev/posts/tu-blog-con-hugo-y-github-pages/</link>
+      <link>https://doneber.dev/blog/posts/tu-blog-con-hugo-y-github-pages/</link>
       <pubDate>Thu, 28 Apr 2022 09:47:22 -0400</pubDate>
       
-      <guid>https://blog.doneber.dev/posts/tu-blog-con-hugo-y-github-pages/</guid>
+      <guid>https://doneber.dev/blog/posts/tu-blog-con-hugo-y-github-pages/</guid>
       <description>Crea tu blog en pocos minutos con estas herramientas</description>
     </item>
     
