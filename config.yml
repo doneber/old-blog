@@ -1,4 +1,4 @@
-baseURL: "https://blog.doneber.dev/"
+baseURL: "https://doneber.dev/blog"
 title: doneber.dev
 paginate: 5
 theme: PaperMod
