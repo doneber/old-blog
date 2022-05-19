@@ -76,6 +76,8 @@ params:
       url: "https://twitter.com/doneberdev"
     - name: github
       url: "https://github.com/doneber"
+    - name: youtube
+      url: https://youtube.com/doneber
     - name: discord
       url: https://discord.gg/5ak7sZpC4t
 
