@@ -9,7 +9,16 @@
       <link>https://doneber.dev/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Jul 2022 22:05:52 -0400</lastBuildDate><atom:link href="https://doneber.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Oct 2022 11:00:26 -0400</lastBuildDate><atom:link href="https://doneber.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux en Window con WSL</title>
+      <link>https://doneber.dev/blog/posts/linux-en-window-con-wsl/</link>
+      <pubDate>Wed, 19 Oct 2022 11:00:26 -0400</pubDate>
+      
+      <guid>https://doneber.dev/blog/posts/linux-en-window-con-wsl/</guid>
+      <description>Introducción Linux o mejor dicho GNU Linux para referirnos a EL sistema operativo. Si bien no es muy popular para el usuario común, es el más utilizado en el mundo de los servidores y también el preferido entre muchos desarrolladores de software. Y como dicen, “para gustos, colores”; existen diferentes distribuciones de Linux para todo tipo de usuarios, entre las más populares tenemos a Ubuntu, Manjaro, Debian entre muchas otras.</description>
+    </item>
+    
     <item>
       <title>Git Workflow</title>
       <link>https://doneber.dev/blog/posts/git-workflow/</link>
