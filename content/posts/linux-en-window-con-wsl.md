@@ -46,7 +46,17 @@ Principalmente:
 
 ## Instalación rápida
 
-Vamos a la instalación, esto no tiene que ser complicado y tampoco necesitas un videotutorial de 30 minutos para hacerlo, ya existe la guía completa que puedes encontrarla en la documentación en [este enlace](https://learn.microsoft.com/es-es/windows/wsl/install). Pero por motivos de simplicidad puedes hacer lo siguiente:
+Vamos a la instalación, esto no tiene que ser complicado y tampoco necesitas un video de 30 minutos para hacerlo, ya existe la guía completa que puedes encontrarla en la documentación en [este enlace](https://learn.microsoft.com/es-es/windows/wsl/install).  Pero igual te dejo un video tutorial corto: 
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/l123f2xV2u0"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"
+          allowfullscreen="" title="YouTube Video"></iframe>
+</div>
+
+
+Pero por motivos de simplicidad puedes hacer lo siguiente:
 
 - Abre una terminal, puedes usar el CMD o PowerShell
 - `wsl --install`
@@ -86,7 +96,7 @@ Install using 'wsl --install -d <Distro>'.
 
 Como vimos anteriormente tenemos una variedad de opciones, sin embargo en la presente vamos a instalar Ubuntu en su versión más reciente, para esto podemos dirigirnos a su documentación de Microsoft en [este enlace](https://ubuntu.com/wsl) donde nos muestra una guía para Windows 10 y 11, pero son prácticamente la misma. Además instalaremos a versión [Ubuntu 22.04 LTS](https://apps.microsoft.com/store/detail/ubuntu-22041-lts/9PN20MSR04DW), 
 
-Par aesta instalación al ir al enlace de Ubuntu 22.04 LTS nos llevará a la página de Microsoft Store la cual podremos instalar de forma gráfica
+Para esta instalación al ir al enlace de Ubuntu 22.04 LTS nos llevará a la página de Microsoft Store la cual podremos instalar de forma gráfica
 
 ### Configurar la versión de WSL
 
@@ -144,7 +154,7 @@ Entre muchas otras opciones que puedes consultar en [este enlace de comandos bá
 
 De forma opcional y casi con fines estéticos podemos instalar la terminal de Windows permite abrir varias pestañas o varios paneles para mostrar y cambiar rápidamente entre varias distribuciones de Linux u otras líneas de comandos, esto lo puedes descargar desde la Microsoft Store, para más detalles te dejo **[este enlace](https://learn.microsoft.com/es-es/windows/terminal/install)**.
 
-## Fuentes y Enlaces
+# Fuentes y Enlaces
 
 [Instalación de WSL](https://learn.microsoft.com/es-es/windows/wsl/install)
 
