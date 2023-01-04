@@ -4,10 +4,8 @@ date: 2023-01-04T16:15:34-04:00
 draft: false
 defaultTheme: auto # dark, light
 showtoc: true
-tocopen: false
+tocopen: true
 ---
-
-# Todo lo que debes saber de GitHub
 
 Básicamente GitHub es una plataforma diseñada para facilitar el desarrollo de software y la colaboración y comunicación entre los desarrolladores. Pero es mucho mas que eso y este artículo te cuento mas al respecto.
 
