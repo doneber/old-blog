@@ -2,6 +2,8 @@ baseURL: "https://doneber.dev/blog"
 title: doneber.dev
 paginate: 5
 theme: PaperMod
+permalinks:
+  posts: "/:title"
 
 enableRobotsTXT: true
 buildDrafts: false
