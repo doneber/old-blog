@@ -9,7 +9,17 @@
       <link>https://doneber.dev/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 19 Oct 2022 11:00:26 -0400</lastBuildDate><atom:link href="https://doneber.dev/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 14:20:18 -0400</lastBuildDate><atom:link href="https://doneber.dev/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hora de definir metas</title>
+      <link>https://doneber.dev/blog/posts/time-to-set-goals/</link>
+      <pubDate>Wed, 04 Jan 2023 14:20:18 -0400</pubDate>
+      
+      <guid>https://doneber.dev/blog/posts/time-to-set-goals/</guid>
+      <description>Sé que aún no has planificado tus objetivos de año, y esta bien, yo tampoco. Pero debemos hacer algo al respecto, así que hablemos de como hacer esto y no fracasar en el intento.
+La Rueda de la Vida Existen diferentes áreas de nuestra vida que debemos prestarle atención, quizás, unas mas importantes que otras, pero en general todas son necesarias e importantes, para esto podemos tomar como referencia la Rueda de la Vida, que ne resumen es una metáfora que utilizamos para entender la complejidad de la vida y para tratar de tener una visión global de nuestras responsabilidades y prioridades; Salud, Familia, Dinero, etc.</description>
+    </item>
+    
     <item>
       <title>Linux en Window con WSL</title>
       <link>https://doneber.dev/blog/posts/linux-en-window-con-wsl/</link>
