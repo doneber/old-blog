@@ -9,7 +9,17 @@
       <link>https://doneber.dev/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 04 Jan 2023 16:15:34 -0400</lastBuildDate><atom:link href="https://doneber.dev/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 20:45:17 -0400</lastBuildDate><atom:link href="https://doneber.dev/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personaliza tu perfil de GitHub y aprovecha GH Actions</title>
+      <link>https://doneber.dev/blog/personaliza-tu-perfil-de-github-y-aprovecha-gh-actions/</link>
+      <pubDate>Sat, 14 Jan 2023 20:45:17 -0400</pubDate>
+      
+      <guid>https://doneber.dev/blog/personaliza-tu-perfil-de-github-y-aprovecha-gh-actions/</guid>
+      <description>Si tienes un perfil en GitHub seguro que querrás configurarlo para que pueda mostrar toda tu información de una forma sencilla pero completa, no busques más que has llegado al lugar correcto porque te voy a contar como lo hice y además de todas las referencias y fuentes que usé para lograrlo. Vamos a ello
+Resumen Para configurar nuestro perfil en GitHub basta con un repositorio con tu nombre de usuario, luego dentro de un archivo README.</description>
+    </item>
+    
     <item>
       <title>Todo sobre GitHub</title>
       <link>https://doneber.dev/blog/todo-sobre-github/</link>
