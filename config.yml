@@ -91,6 +91,7 @@ params:
     yandex:
       SiteVerificationTag: "XYZabc"
 
+  GoogleAnalyticsID: G-3K3RK7WPPJ
 
   cover:
     hidden: true # hide everywhere but not in structured data
