@@ -1,7 +1,6 @@
 ---
-title: "Personaliza tu perfil de GitHub con readme.md"
-date: 2023-01-14T23:29:03-04:00
-draft: false
+title: "Personaliza tu perfil de GitHub y aprovecha GH Actions"
+date: 2023-01-14T20:45:17-04:00
 showtoc: true
 tocopen: true
 ---
@@ -113,6 +112,9 @@ Muy parecido al anterior pero aquí podemos elegir como queremos que se vea nues
 - Seguir sus instrucciones
 
 Y listo, espero te funcione de maravilla!
+
+Nota: Usar los actions de la marketplace de GitHub es muy útil, pero aún puedes personalizarlo mas creando tus propios workflows, para esto puedes también crear algún script con NodeJs, Python o el lenguaje que tu quieras, pero considero que este es un buen punto de inicio si estas empezando.
+
 
 ## Fuentes y recursos:
 Aquí algunos recursos que me ayudaron a personalizar mi perfil
