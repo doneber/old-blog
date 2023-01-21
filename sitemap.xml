@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://doneber.dev/blog/</loc>
-    <lastmod>2023-01-14T20:45:17-04:00</lastmod>
+    <loc>https://doneber.dev/blog/como-aprender-javascript-recursos-gratuitos/</loc>
+    <lastmod>2023-01-20T15:53:48-04:00</lastmod>
   </url><url>
-    <loc>https://doneber.dev/blog/personaliza-tu-perfil-de-github-y-aprovecha-gh-actions/</loc>
-    <lastmod>2023-01-14T20:45:17-04:00</lastmod>
+    <loc>https://doneber.dev/blog/</loc>
+    <lastmod>2023-01-20T15:53:48-04:00</lastmod>
   </url><url>
     <loc>https://doneber.dev/blog/posts/</loc>
+    <lastmod>2023-01-20T15:53:48-04:00</lastmod>
+  </url><url>
+    <loc>https://doneber.dev/blog/personaliza-tu-perfil-de-github-y-aprovecha-gh-actions/</loc>
     <lastmod>2023-01-14T20:45:17-04:00</lastmod>
   </url><url>
     <loc>https://doneber.dev/blog/todo-sobre-github/</loc>

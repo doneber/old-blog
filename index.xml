@@ -9,7 +9,21 @@
       <link>https://doneber.dev/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 14 Jan 2023 20:45:17 -0400</lastBuildDate><atom:link href="https://doneber.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 15:53:48 -0400</lastBuildDate><atom:link href="https://doneber.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como aprender JavaScript, recursos gratuitos</title>
+      <link>https://doneber.dev/blog/como-aprender-javascript-recursos-gratuitos/</link>
+      <pubDate>Fri, 20 Jan 2023 15:53:48 -0400</pubDate>
+      
+      <guid>https://doneber.dev/blog/como-aprender-javascript-recursos-gratuitos/</guid>
+      <description>Imagina esto, tú con toda ilusión y ganas de aprender JavaScript le preguntas a alguien lo siguiente:
+Tú: ¿Dónde puedo aprender JavaScript?
+X: Re fácil… Internet.
+Tú: 🤡
+Si, en internet hay mucho material. Quizás la pregunta correcta debería ser “¿Dónde puedo aprender bien JavaScript?”
+Resumen En internet existe mucha información de JavaScript, lenguaje sobre todo usado en el desarrollo web, aunque es bastante versátil para ser usado en distintas áreas.</description>
+    </item>
+    
     <item>
       <title>Personaliza tu perfil de GitHub y aprovecha GH Actions</title>
       <link>https://doneber.dev/blog/personaliza-tu-perfil-de-github-y-aprovecha-gh-actions/</link>
