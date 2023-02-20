@@ -1,17 +1,23 @@
 ---
 title: "Despliega tu Aplicación Monorepo (backend y frontend) con Vercel"
 date: 2023-02-20T18:09:49-04:00
-draft: true
 ---
 
 Si estás empezando un proyecto que utiliza tecnologías tanto para el backend como para el frontend, y quieres publicarlo en internet, hay varias opciones disponibles. Puedes comprar un servidor y configurarlo, utilizar herramientas como Docker para empaquetar el proyecto, o utilizar una plataforma como Vercel para simplificar el proceso. Vercel es especialmente útil para aquellos que no tienen experiencia en infraestructura o que no quieren pasar mucho tiempo configurando todo.
+
+## Vercel
+
 Si eres un desarrollador de aplicaciones modernas, Vercel es una plataforma que definitivamente debes considerar. Además de ser rápido y fácil de usar, Vercel te proporciona una amplia gama de herramientas y recursos para facilitar el despliegue de tus aplicaciones. Con Vercel, puedes estar seguro de que tu aplicación será desplegada de manera eficiente y sin problemas para que puedas enfocarte en crear la mejor experiencia para tus usuarios.
 
 Desplegar una aplicación estática construida con vanilla o algún framework como Vue o React, así como desplegar la API de nuestro backend no es muy complicado. Los servicios de Vercel permiten desplegar tanto la aplicación frontend como la API del backend. Sin embargo, ¿se pueden desplegar ambos al mismo tiempo?
 
-Existe un concepto llamado monorepo que consiste en tener en un solo repositorio tanto el proyecto de Frontend como el de Backend. 
+### ¿Que es un monorepositorio?
 
-En el ejemplo nuestro proyecto `awesome-project` tiene tanto el backend (`api`) como el frontend.
+En el desarrollo de software que consiste en tener en un solo repositorio tanto el proyecto de Frontend como el de Backend. Esto significa que ambos proyectos se pueden gestionar y desplegar juntos. Es una opción conveniente para proyectos complejos que involucran múltiples componentes y dependencias.
+
+Por fines prácticos tomaremos como monorepo un proyecto que tiene la carpeta del Frontend (Vue, React, etc.) y el de Backend (NodeJs, Flask, etc.), todo junto.
+
+Para el ejemplo nuestro proyecto `awesome-project` tiene tanto el backend (`api`) como el frontend.
 
 ```markdown
 /api-and-frontend-project
@@ -68,10 +74,6 @@ Para desplegar el frontend y la API en Vercel, sigue estos pasos:
 4. Finalmente hacemos un push a nuestro repositorio.
 
 Ahora queda esperar que Vercel empiece a construir y publicar la aplicación.
-
-### ¿Que es un monorepositorio?
-
-En el desarrollo de software que consiste en tener en un solo repositorio tanto el proyecto de Frontend como el de Backend. Esto significa que ambos proyectos se pueden gestionar y desplegar juntos. Es una opción conveniente para proyectos complejos que involucran múltiples componentes y dependencias.
 
 Algo interesante que podríamos tomar en cuenta a futuro es  usar herramientas tipo [Turbo](https://turbo.build/) y pero sobre todo [Turborepo](https://turbo.build/repo)
 
