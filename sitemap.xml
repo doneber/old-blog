@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://doneber.dev/blog/despliega-tu-aplicaci%C3%B3n-monorepo-backend-y-frontend-con-vercel/</loc>
-    <lastmod>2023-02-20T18:09:49-04:00</lastmod>
-  </url><url>
     <loc>https://doneber.dev/blog/</loc>
-    <lastmod>2023-02-20T18:09:49-04:00</lastmod>
+    <lastmod>2023-02-25T22:37:57-04:00</lastmod>
   </url><url>
     <loc>https://doneber.dev/blog/posts/</loc>
+    <lastmod>2023-02-25T22:37:57-04:00</lastmod>
+  </url><url>
+    <loc>https://doneber.dev/blog/what-really-a-portfolio-is/</loc>
+    <lastmod>2023-02-25T22:37:57-04:00</lastmod>
+  </url><url>
+    <loc>https://doneber.dev/blog/despliega-tu-aplicaci%C3%B3n-monorepo-backend-y-frontend-con-vercel/</loc>
     <lastmod>2023-02-20T18:09:49-04:00</lastmod>
   </url><url>
     <loc>https://doneber.dev/blog/como-aprender-javascript-recursos-gratuitos/</loc>
