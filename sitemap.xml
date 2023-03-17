@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://doneber.dev/blog/que-es-realmente-un-portafolio/</loc>
-    <lastmod>2023-02-25T22:37:57-04:00</lastmod>
-  </url><url>
     <loc>https://doneber.dev/blog/</loc>
-    <lastmod>2023-02-25T22:37:57-04:00</lastmod>
+    <lastmod>2023-03-17T13:46:07-04:00</lastmod>
+  </url><url>
+    <loc>https://doneber.dev/blog/el-cv-definitivo/</loc>
+    <lastmod>2023-03-17T13:46:07-04:00</lastmod>
   </url><url>
     <loc>https://doneber.dev/blog/posts/</loc>
+    <lastmod>2023-03-17T13:46:07-04:00</lastmod>
+  </url><url>
+    <loc>https://doneber.dev/blog/que-es-realmente-un-portafolio/</loc>
     <lastmod>2023-02-25T22:37:57-04:00</lastmod>
   </url><url>
     <loc>https://doneber.dev/blog/despliega-tu-aplicaci%C3%B3n-monorepo-backend-y-frontend-con-vercel/</loc>
