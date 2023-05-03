@@ -1,9 +1,17 @@
 ---
-title: Necesitas practicar tu mecanografia"
+title: Necesitas practicar tu mecanografia
 date: 2023-04-26T09:44:53-04:00
 ---
 
 La mecanografía es una habilidades bastante infravalorada pero es muy importante para cualquier persona que necesite trabajar en una computadora. La capacidad de trasladar rápidamente los pensamientos de nuestra cabeza al editor permite que la creatividad fluya libremente. Y una de las mejores formas de aprender es **jugando**.
+
+También puedes ver todo esto explicado en video, te recomiendo este video:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/m_DqMsF0DkQ"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"
+          allowfullscreen="" title="YouTube Video"></iframe>
+</div>
 
 ## **Glosario**
 
